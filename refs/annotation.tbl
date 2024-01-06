@@ -1,0 +1,294 @@
+>Feature A_HA_H1
+1	1704	gene		
+			gene	HA
+1	1704	CDS		
+			product	hemagglutinin
+			protein_id	A_HA_H1p1
+			function	receptor binding and fusion protein
+			gene	HA
+1	54	sig_peptide
+55	1035	mat_peptide
+			product HA1
+1036	1701	mat_peptide
+			product HA2
+    
+ INFO: Length: 1704 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Serotype: H1
+ INFO: Virus type: influenza A
+===================================================================
+>Feature A_HA_H3
+1	1704	gene		
+			gene	HA
+1	1704	misc_feature		
+			note	nonfunctional hemagglutinin due to mutation
+    
+ ERROR: Mature peptides (sig_peptide) and (HA1) are separated
+ INFO: Length: 1704 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: nucleotide - complete
+ INFO: Serotype: H3
+ INFO: Virus type: influenza A
+===================================================================
+>Feature A_NA_N1
+1	1413	gene		
+			gene	NA
+1	1413	CDS		
+			product	neuraminidase
+			protein_id	A_NA_N1p1
+			gene	NA
+    
+ INFO: Length: 1413 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Serotype: N1
+ INFO: Virus type: influenza A
+===================================================================
+>Feature A_NA_N2
+1	1410	gene		
+			gene	NA
+1	1410	CDS		
+			product	neuraminidase
+			protein_id	A_NA_N2p1
+			gene	NA
+    
+ INFO: Length: 1410 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Serotype: N2
+ INFO: Virus type: influenza A
+===================================================================
+>Feature A_M
+1	759	gene		
+			gene	M1
+1	759	CDS		
+			product	matrix protein 1
+			protein_id	A_Mp1
+			gene	M1
+1	982	gene		
+			gene	M2
+1	26	CDS		
+715	982			
+			product	matrix protein 2
+			protein_id	A_Mp2
+			gene	M2
+    
+ INFO: Length: 982 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza A
+===================================================================
+>Feature A_NP
+1	1497	gene		
+			gene	NP
+1	1497	CDS		
+			product	nucleocapsid protein
+			protein_id	A_NPp1
+			gene	NP
+    
+ INFO: Length: 1497 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza A
+===================================================================
+>Feature A_NS
+1	693	gene		
+			gene	NS1
+1	693	CDS		
+			product	nonstructural protein 1
+			protein_id	A_NSp1
+			gene	NS1
+1	838	gene		
+			gene	NEP
+			gene_syn	NS2
+1	30	CDS		
+503	838			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	A_NSp2
+			gene	NEP
+    
+ INFO: Length: 863 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza A
+===================================================================
+>Feature A_PA
+1	2151	gene		
+			gene	PA
+1	2151	CDS		
+			product	polymerase PA
+			protein_id	A_PAp1
+			gene	PA
+1	760	gene		
+			gene	PA-X
+1	570	CDS		
+572	760			
+			product	PA-X protein
+			protein_id	A_PAp2
+			exception	ribosomal slippage
+			gene	PA-X
+    
+ INFO: Length: 2151 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza A
+===================================================================
+>Feature A_PB1
+1	2274	gene		
+			gene	PB1
+1	2274	CDS		
+			product	polymerase PB1
+			protein_id	A_PB1p1
+			gene	PB1
+95	367	gene		
+			gene	PB1-F2
+95	367	CDS		
+			product	PB1-F2 protein
+			protein_id	A_PB1p2
+			gene	PB1-F2
+    
+ INFO: Length: 2274 nucleotides
+ INFO: Segment: 2 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza A
+===================================================================
+>Feature A_PB2
+1	2280	gene		
+			gene	PB2
+1	2280	CDS		
+			product	polymerase PB2
+			protein_id	A_PB2p1
+			gene	PB2
+    
+ INFO: Length: 2280 nucleotides
+ INFO: Segment: 1 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza A
+===================================================================
+>Feature B_HA
+1	1758	gene		
+			gene	HA
+1	1758	CDS		
+			product	hemagglutinin
+			protein_id	B_HAp1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1758 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature B_M
+1	747	gene		
+			gene	M1
+1	747	CDS		
+			product	matrix protein 1
+			protein_id	B_Mp1
+			gene	M1
+747	1076	gene		
+			gene	BM2
+747	1076	CDS		
+			product	BM2 protein
+			protein_id	B_Mp2
+			gene	BM2
+    
+ INFO: Length: 1139 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature B_NA
+1	303	gene		
+			gene	NB
+1	303	CDS		
+			product	NB protein
+			protein_id	B_NAp1
+			gene	NB
+8	1408	gene		
+			gene	NA
+8	1408	CDS		
+			product	neuraminidase
+			protein_id	B_NAp2
+			gene	NA
+    
+ INFO: Length: 1408 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature B_NP
+1	1683	gene		
+			gene	NP
+1	1683	CDS		
+			product	nucleoprotein
+			protein_id	B_NPp1
+			gene	NP
+    
+ INFO: Length: 1683 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature B_NS
+1	849	gene		
+			gene	NS1
+1	849	CDS		
+			product	nonstructural protein 1
+			protein_id	B_NSp1
+			gene	NS1
+1	1027	gene		
+			gene	NEP
+			gene_syn	NS2
+1	36	CDS		
+692	1027			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	B_NSp2
+			gene	NEP
+    
+ INFO: Length: 1034 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature B_PA
+1	2181	gene		
+			gene	PA
+1	2181	CDS		
+			product	polymerase PA
+			protein_id	B_PAp1
+			gene	PA
+    
+ INFO: Length: 2181 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature B_PB1
+1	2259	gene		
+			gene	PB1
+1	2259	CDS		
+			product	polymerase PB1
+			protein_id	B_PB1p1
+			gene	PB1
+    
+ INFO: Length: 2263 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature B_PB2
+1	2313	gene		
+			gene	PB2
+1	2313	CDS		
+			product	polymerase PB2
+			protein_id	B_PB2p1
+			gene	PB2
+    
+ INFO: Length: 2313 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
